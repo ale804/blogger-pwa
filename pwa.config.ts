@@ -6,7 +6,7 @@ export default {
   shortName: 'INVASIVA MEDIA',
   description: 'Te Atrapamos con los que necesitas para entretenerte',
   direction: 'auto',
-  language: 'es-US',
+  language: 'es-ES',
   backgroundColor: '#fff',
   themeColor: '#fff',
   display: 'standalone',
