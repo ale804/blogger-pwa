@@ -2,11 +2,11 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'INVASIVA MEDIA',
+  shortName: 'INVASIVA MEDIA',
+  description: 'Te Atrapamos con los que necesitas para entretenerte',
   direction: 'auto',
-  language: 'en-US',
+  language: 'es-US',
   backgroundColor: '#fff',
   themeColor: '#fff',
   display: 'standalone',
